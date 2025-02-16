@@ -1,0 +1,8 @@
+yt-dlp
+openai
+torch
+torchvision
+torchaudio
+python-docx
+python-dotenv
+openai-whisper
